@@ -52,10 +52,10 @@ const About = () => {
                 Our Founding Story
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
-              In the vibrant realm of education and innovation, the founder of EduVerse—
+              In the vibrant realm of education and innovation, 
               <span className="bg-gradient-to-b from-[#FF512F] to-[#F09819] text-transparent bg-clip-text font-bold">
             {" "}
-            Divyam Raj
+            
         </span>,
        
                 —united with a shared vision to redefine learning.
